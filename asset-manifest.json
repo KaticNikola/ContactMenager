@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ContactMenager/static/css/main.36497136.chunk.css",
-    "main.js": "/ContactMenager/static/js/main.84b82dc4.chunk.js",
-    "main.js.map": "/ContactMenager/static/js/main.84b82dc4.chunk.js.map",
+    "main.js": "/ContactMenager/static/js/main.5bfbce5d.chunk.js",
+    "main.js.map": "/ContactMenager/static/js/main.5bfbce5d.chunk.js.map",
     "runtime~main.js": "/ContactMenager/static/js/runtime~main.398fd5d5.js",
     "runtime~main.js.map": "/ContactMenager/static/js/runtime~main.398fd5d5.js.map",
     "static/css/2.266e55a5.chunk.css": "/ContactMenager/static/css/2.266e55a5.chunk.css",
     "static/js/2.03fd6fea.chunk.js": "/ContactMenager/static/js/2.03fd6fea.chunk.js",
     "static/js/2.03fd6fea.chunk.js.map": "/ContactMenager/static/js/2.03fd6fea.chunk.js.map",
     "index.html": "/ContactMenager/index.html",
-    "precache-manifest.23ded51055ed7f8d449c36af63ee88ad.js": "/ContactMenager/precache-manifest.23ded51055ed7f8d449c36af63ee88ad.js",
+    "precache-manifest.95b7167ed1a1f1196e61c79e0b540a95.js": "/ContactMenager/precache-manifest.95b7167ed1a1f1196e61c79e0b540a95.js",
     "service-worker.js": "/ContactMenager/service-worker.js",
     "static/css/2.266e55a5.chunk.css.map": "/ContactMenager/static/css/2.266e55a5.chunk.css.map",
     "static/css/main.36497136.chunk.css.map": "/ContactMenager/static/css/main.36497136.chunk.css.map"
